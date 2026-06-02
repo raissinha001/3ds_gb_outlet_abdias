@@ -1,7 +1,6 @@
 *{
     box-sizing: content-box;
 }
-
 .box{
     width: 400px;
     height: 400px;
@@ -9,3 +8,27 @@
     margin: 10% auto;
     padding: 70px;
 }
+.container{
+
+}
+
+.produtos   {
+    display: flex; 
+    justify-content:center;
+
+
+.produtos img{
+    width:180px;
+    height:200px;
+    border-radius:10px
+
+]
+.produtos img:hover {
+    transform: scale(1.2);
+
+}
+    
+.titulo_prod  {
+    font-weight:bold;
+    font-family:arial; 
+    color:
