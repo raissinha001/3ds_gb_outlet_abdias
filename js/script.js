@@ -6,7 +6,7 @@ function validarLogin(){
     alert("Oi, " + login + " sumido(a)!");
     window.location.href - "produtos.html";
     } else {
-    	alert("Acesso Negado!");
+     alert("Acesso Negado!");
     }
 
     login = document.getElementById("login").value = '';
